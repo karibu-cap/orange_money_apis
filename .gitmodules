@@ -1,0 +1,6 @@
+[submodule "go"]
+	path = go
+	url = https://github.com/karibu-cap/orange_money_apis_go.git
+[submodule "typescript"]
+	path = typescript
+	url = https://github.com/karibu-cap/orange_money_apis_js.git
